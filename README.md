@@ -13,3 +13,7 @@ This repository contains resources and documentation for our project on simulati
 ## Usage
 
 To replicate our experiments or to use the finetuning setup for your projects, follow the instructions in `Finetuning_script.py` after installing `requirements.txt`.
+
+## Fine-Tuned Models
+
+Our fine-tuned models (Mistralv0.1 and Llama-2) can be found on this Google Drive [Link](https://drive.google.com/file/d/1BZGm9BP7xxu3VRML3itoDL3ZFcE7hbBf/view?usp=sharing)
