@@ -8,7 +8,8 @@ This repository contains resources and documentation for our project on simulati
 - `Sample_Chats.ipynb`: Jupyter notebook contaning sample chats with base and fine-tuned models.
 - `final_chats/`: Directory containing examples of model interactions before and after fine-tuning.
 - `Dataset_Preprocessing.ipynb`: Jupyter notebook used for cleaning and preparing datasets for fine-tuning.
-- `Finetuning_script.py`: Script for quantizing and fine-tuning the models. 
+- `Finetuning_script.py`: Script for quantizing and fine-tuning the models.
+- `datasets/` : Directory containing the datasets we used for fine-tuning.
 
 ## Usage
 
