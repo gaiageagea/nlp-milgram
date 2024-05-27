@@ -12,4 +12,4 @@ This repository contains resources and documentation for our project on simulati
 
 ## Usage
 
-To replicate our experiments or to use the finetuning setup for your projects, follow the instructions in `Finetuning_script.py`.
+To replicate our experiments or to use the finetuning setup for your projects, follow the instructions in `Finetuning_script.py` after installing `requirements.txt`.
